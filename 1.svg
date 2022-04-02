@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="69px" viewBox="0 0 81 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 41</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="74.1149326%" id="linearGradient-1">
+            <stop stop-color="#FFD800" offset="0%"></stop>
+            <stop stop-color="#FF8D00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.75207071e-14%" y1="21.6430422%" x2="100%" y2="78.3569578%" id="linearGradient-2">
+            <stop stop-color="#FFD300" offset="0%"></stop>
+            <stop stop-color="#FFAD00" offset="100%"></stop>
+        </linearGradient>
+        <path d="M3.53772027,2.8178534 L40.5,32.2589278 L40.5,32.2589278 L77.4622797,2.8178534 C78.3262697,2.12967093 79.5845541,2.27219107 80.2727366,3.13618104 C80.5828348,3.52549891 80.7366259,4.01645464 80.7040582,4.51311211 L77.6128307,51.6543324 C77.2680739,56.9118729 72.903093,61 67.6342612,61 L13.3657388,61 C8.09690703,61 3.73192609,56.9118729 3.38716934,51.6543324 L0.295941778,4.51311211 C0.223666214,3.41090976 1.05858684,2.45880729 2.16078919,2.38653173 C2.65744666,2.35396402 3.14840239,2.5077552 3.53772027,2.8178534 Z" id="path-3"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-41" transform="translate(0.000000, 0.869767)">
+            <rect id="矩形备份-28" fill="url(#linearGradient-1)" transform="translate(40.284045, 33.234019) rotate(45.000000) translate(-40.284045, -33.234019) " x="16.7840453" y="9.73401872" width="47" height="47" rx="6"></rect>
+            <g id="矩形备份-30" transform="translate(0.000000, 7.130233)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="蒙版" fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+                <rect id="矩形" fill="#FFFDD2" mask="url(#mask-4)" transform="translate(1.966193, 35.142344) rotate(44.000000) translate(-1.966193, -35.142344) " x="-6.03380722" y="27.1423436" width="16" height="16"></rect>
+                <rect id="矩形备份-192" fill="#FFF000" mask="url(#mask-4)" transform="translate(78.966193, 35.142344) rotate(44.000000) translate(-78.966193, -35.142344) " x="70.9661928" y="27.1423436" width="16" height="16"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
