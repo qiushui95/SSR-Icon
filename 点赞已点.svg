@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="49px" viewBox="0 0 53 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组备份</title>
+    <defs>
+        <linearGradient x1="6.26929064e-13%" y1="7.26237095%" x2="100%" y2="92.737629%" id="linearGradient-1">
+            <stop stop-color="#1C51A0" offset="0%"></stop>
+            <stop stop-color="#0E376F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组备份" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M26.5,49 L22.6491396,45.478125 C9.01912046,33.0239583 0,24.7552083 0,14.7 C0,6.48229167 6.38432122,0 14.5927342,0 C19.2036329,0 23.6118547,2.14375 26.5,5.56354167 C29.3881453,2.19479167 33.7963671,0 38.4072658,0 C46.5650096,0 53,6.43125 53,14.7 C53,24.7552083 43.9808795,33.0239583 30.3508604,45.478125 L26.5,49 Z" id="路径"></path>
+        </g>
+    </g>
+</svg>
